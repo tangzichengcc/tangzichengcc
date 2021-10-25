@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **tangzichengcc/tangzichengcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp;  web安全 | 系统安全 | Python | C |
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | 
 
 <!--
 
@@ -104,7 +104,6 @@ Here are some ideas to get you started:
 
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
 
 
 

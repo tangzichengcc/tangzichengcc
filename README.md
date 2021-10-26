@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 
 - 💻 &nbsp;  web安全 | 系统安全 | Python | C |
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | 
 
 <!--
 

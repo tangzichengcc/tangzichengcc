@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋<h2> I'm 唐仔橙</h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://github.com/tangzichengcc/tangzichengcc/blob/main/store/img/Cache_-2cc18a71acbe122f..jpg" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 

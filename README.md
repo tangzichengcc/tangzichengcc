@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://github.com/tangzichengcc/tangzichengcc/blob/main/store/img/Cache_-2cc18a71acbe122f..jpg" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 🥳•💻 About Me </h3>
 
 
 
